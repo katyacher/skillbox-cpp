@@ -1,0 +1,13 @@
+hat programming language is one of the leaders in creating websites(php\c++\python)?
+Is JavaScript a browser-based version of the Java programming language?
+Are websites created in Java and C#?
+Does it happen that the program compiled the first time and without errors?
+There are three trees in front of you. On the one in the middle is a cat. What is the index of the cat on the tree (number)?
+What is the maximum number of the following that can be shown with the fingers of one hand?
+If octopuses could count, what system would they most likely use?
+The process of creating a computer program, including designing the program, using algorithms, writing program code, and so on.
+Named memory cells that are used to store program data, the results of its calculations.
+Collection of elements of the same type placed in contiguous memory locations that can be individually referenced by using an index to a unique identifier.
+There are two identical glasses filled equally: milk in one, coffee in the other. From the first glass pour a spoonful of milk into a glass of coffee. Then they stir, and a spoonful of coffee with milk is poured from the second glass back into the first. What is more now: milk in coffee or coffee in milk(coffee\milk\equaly\undefined)?
+Which SQL statement retrieves data from a table?
+The sequence container representing array that can change in size.

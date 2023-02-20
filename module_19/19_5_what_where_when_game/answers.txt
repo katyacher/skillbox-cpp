@@ -1,0 +1,13 @@
+php
+no
+yes
+no
+1
+31
+octal
+programming
+variable
+array
+equally
+select
+vector
