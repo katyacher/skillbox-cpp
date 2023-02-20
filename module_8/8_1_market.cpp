@@ -1,0 +1,17 @@
+#include <iostream>
+
+int main() {
+  std::cout << "Задача 1. Орехи\n";
+
+  float total_weight, price_per_100_g, total_price = .0f;
+
+  std::cout << "Цена товара за 100 гр: ";
+  std::cin >> price_per_100_g;
+  std::cout << "Итоговы вес (в граммах): ";
+  std::cin >> total_weight;
+
+  total_price = total_weight * price_per_100_g/100;
+
+  std::cout << "Итоговая цена: " << total_price; 
+
+}
